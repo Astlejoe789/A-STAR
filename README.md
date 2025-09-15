@@ -99,6 +99,9 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 
 <hr>
 <h2>Sample Input</h2>
+
+
+
 <hr>
 6 6 <br>
 A B 2 <br>
@@ -115,5 +118,9 @@ D 1 <br>
 G 0 <br>
 <hr>
 <h2>Sample Output</h2>
+
+<img width="1166" height="409" alt="image" src="https://github.com/user-attachments/assets/61ab4343-9f4a-45e1-a5e0-6ef3d93f5d1e" />
+
+
 <hr>
 Path found: ['A', 'E', 'D', 'G']
