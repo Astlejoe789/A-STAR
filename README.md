@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:       </h3>
-<h3>Register Number:           </h3>
+<h3>Name:  ASTLE JOE A S     </h3>
+<h3>Register Number: 212224240019          </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -124,3 +124,6 @@ G 0 <br>
 
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+# Result
+Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
